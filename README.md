@@ -35,7 +35,7 @@ map.html
         <body>
             <h1 align="center">THANJAVUR</h1>
             <h1 align="center">KANCHANA M (25016997)</h1>
-            <img src="Screenshot 2025-09-22 092208.png" usemap="#image-map">
+            <img src="map.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="Royal palace Museum" title="Royal palace Museum" href="palace.html" coords="551,304,788,361" shape="rect">
@@ -146,7 +146,7 @@ air.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-22 092208.png>)
+![alt text](<Screenshot 2025-09-28 195403.png>)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
